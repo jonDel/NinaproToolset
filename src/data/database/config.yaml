@@ -1,0 +1,15 @@
+nina_user: put_user_in_base64
+nina_password: put_password_in_base64
+base_url: http://ninapro.hevs.ch
+login_endpoint: node/7
+logout_endpoint: user/logout
+database_endpoints:
+  1: /data1
+  2: /data2
+  3: /data3
+  4: /data4
+  5: /data5
+  6: /data6
+  7: /data7
+  8: /data8
+  9: /data9
